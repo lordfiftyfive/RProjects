@@ -1,0 +1,1 @@
+pnorm(74, mean=70, sd=2, lower.tail=FALSE)
